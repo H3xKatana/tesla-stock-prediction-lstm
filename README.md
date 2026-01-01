@@ -80,7 +80,6 @@ The preprocessing pipeline follows industry best practices for time series analy
 
 ## Technical Difficulty & Depth
 
-**Level: Hard Topic (1.5 points)**
 
 The project demonstrates advanced technical skills through:
 
